@@ -1,0 +1,17 @@
+
+.img {
+    height: 300px;
+    width: 300px;
+}
+
+.contenedor {
+    text-align: center;
+    background-color: antiquewhite;
+    border: solid firebrick;
+    padding: 10px;
+}
+
+.contenedor.boton {
+    width: 300px;
+    height: 300px;
+}
